@@ -13,4 +13,9 @@
 https://smg-scratch04.github.io/JPEQ-JapanEarthQuake/
 
 ## バージョン履歴
+V1.1
+予想高さ追加
+文字の大きさ変更
+そのほか諸々
+
 V1.0 共有
